@@ -2,9 +2,7 @@
 
 This repository contains the source code for FieldView, a scientific vector field visualisation tool, developed for our paper *FieldView: An interactive software tool for exploration of three-dimensional vector fields*.
 
-**Warning**
-
-The application requires an NVIDIA RTX graphics card for the mesh shader support.
+:warning: **The application requires an NVIDIA RTX graphics card for the mesh shader support.**
 
 ## Installation
 
