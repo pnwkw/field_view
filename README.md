@@ -50,5 +50,5 @@ which are unavailable in the GUI:
 ### Running
 Execute the application with the following command:
 ```
-./field_view
+./src/field_view
 ```
